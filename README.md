@@ -8,7 +8,7 @@ This is a repository for my study notes
 ### C++
 ### python
 ### html
-### css
+### [css](https://github.com/KevinAndrewl/MyNotes/blob/master/CSS.md)
 ### JavaScript
 ### typescript
 ### Vue
