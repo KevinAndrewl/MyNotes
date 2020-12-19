@@ -22,9 +22,9 @@ This is a repository for my study notes
 ### python
 ### Danjgo
 ### pytorch
-### [tensorflow]
-### [html]
-### [css]
+### tensorflow
+### html
+### css
 ### JavaScript
 ### typescript
 ### Vue
