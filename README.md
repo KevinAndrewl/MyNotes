@@ -4,6 +4,9 @@ This is a repository for my study notes
 ### Java
 ### JVM
 ### JUC
+### Mysql
+### MyBatis
+### MyBatis-Plus
 ### spring
 ### SpringBoot
 ### SpringCloud
@@ -17,10 +20,11 @@ This is a repository for my study notes
 ### Principles of Computer Composition
 ### Design Patterns
 ### python
+### Danjgo
 ### pytorch
-### tensorflow
-### html
-### [css](https://github.com/KevinAndrewl/MyNotes/blob/master/CSS.md)
+### [tensorflow]
+### [html]
+### [css]
 ### JavaScript
 ### typescript
 ### Vue
