@@ -4,6 +4,8 @@ This is a repository for my study notes
 ### Java
 ### JVM
 ### JUC
+### MyBatis
+### MyBatis-Plus
 ### spring
 ### SpringBoot
 ### SpringCloud
@@ -17,6 +19,7 @@ This is a repository for my study notes
 ### Principles of Computer Composition
 ### Design Patterns
 ### python
+### Danjgo
 ### pytorch
 ### tensorflow
 ### html
@@ -27,3 +30,4 @@ This is a repository for my study notes
 ### node.js
 ### C language
 ### Golang
+### Mysql
