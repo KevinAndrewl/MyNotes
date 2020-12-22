@@ -1,33 +1,58 @@
 # MyNotes
 This is a repository for my study notes
 ## contents
-### Java
-### JVM
-### JUC
-### MyBatis
-### MyBatis-Plus
-### spring
-### SpringBoot
-### SpringCloud
-### C++
-### STL
-### Linux
-### Data structures
-### Algorithms
-### Computer Network
-### operating systems
-### Principles of Computer Composition
-### Design Patterns
-### python
-### Danjgo
-### pytorch
-### tensorflow
-### html
-### css
-### JavaScript
-### typescript
-### Vue
-### node.js
-### C language
-### Golang
-### Mysql
+### Language
+
+#### Java
+
+##### Java基础
+
+##### jvm
+
+##### 并发
+
+#### C++
+
+#### python
+
+#### C
+
+#### GO
+
+#### html+css
+
+#### JavaScript
+
+#### typescript
+
+### foundation
+
+#### Data structure
+
+#### Algorithm
+
+#### Operating system
+
+#### Network
+
+#### Composition
+
+#### Design
+
+### Database
+
+#### MySQL
+
+
+
+### Framework
+
+#### mybatis
+
+#### mybatis-plus
+
+#### spring
+
+#### springmvc
+
+#### vue
