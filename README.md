@@ -20,7 +20,7 @@ This is a repository for my study notes
 ### pytorch
 ### tensorflow
 ### html
-### [css](https://github.com/KevinAndrewl/MyNotes/blob/master/CSS.md)
+### css
 ### JavaScript
 ### typescript
 ### Vue
