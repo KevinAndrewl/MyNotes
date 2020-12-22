@@ -4,7 +4,6 @@ This is a repository for my study notes
 ### Java
 ### JVM
 ### JUC
-### Mysql
 ### MyBatis
 ### MyBatis-Plus
 ### spring
@@ -31,3 +30,4 @@ This is a repository for my study notes
 ### node.js
 ### C language
 ### Golang
+### Mysql
