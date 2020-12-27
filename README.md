@@ -1,7 +1,18 @@
 # MyNotes
 This is a repository for my study notes
 ## contents
+### CS408
+
+#### 数据结构和算法
+
+#### 计算机网络
+
+#### 操作系统
+
+#### 计算机组成原理
+
 ### Java
+
 #### 基础
 [注解和反射](https://github.com/KevinAndrewl/MyNotes/blob/main/Java%E5%9F%BA%E7%A1%80/%E6%B3%A8%E8%A7%A3%E5%92%8C%E5%8F%8D%E5%B0%84.md)
 #### JVM
