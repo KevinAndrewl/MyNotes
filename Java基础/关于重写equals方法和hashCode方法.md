@@ -25,7 +25,7 @@ class test{
 }
 ```
 
-这里因为test并没有重写equals方法，所以调用的是Object中的equals，a和b同时指向了字符串"hello"对象，所以结果是true，而t1和t2指向的是不同的test对象，所以结果是false，当我们重写了equals方法后，便可以安装我们理解的那样去判断(id一样，对象也就一样).
+这里因为test并没有重写equals方法，所以调用的是Object中的equals，a和b同时指向了字符串"hello"对象，所以结果是true，而t1和t2指向的是不同的test对象，所以结果是false，当我们重写了equals方法后，便可以按照我们理解的那样去判断(id一样，对象也就一样).
 
 ```java
     @Override
