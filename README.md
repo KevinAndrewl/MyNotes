@@ -1,58 +1,17 @@
 # MyNotes
 This is a repository for my study notes
 ## contents
-### Language
-
-#### Java
-
-##### Java基础
-
-##### jvm
-
-##### 并发
-
-#### C++
-
-#### python
-
-#### C
-
-#### GO
-
-#### html+css
-
-#### JavaScript
-
-#### typescript
-
-### foundation
-
-#### Data structure
-
-#### Algorithm
-
-#### Operating system
-
-#### Network
-
-#### Composition
-
-#### Design
-
-### Database
-
-#### MySQL
-
-
-
-### Framework
-
-#### mybatis
-
-#### mybatis-plus
-
-#### spring
-
-#### springmvc
-
-#### vue
+### Java
+### [注解和反射]https://github.com/KevinAndrewl/MyNotes/blob/main/Java%E5%9F%BA%E7%A1%80/%E6%B3%A8%E8%A7%A3%E5%92%8C%E5%8F%8D%E5%B0%84.md
+### mybatis
+### spring+springmvc
+### springboot
+### springcloud
+### MySQL
+### Linux
+### C++
+### Python
+### C#
+### C
+### html+css+js+typescript
+### vue
