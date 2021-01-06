@@ -141,7 +141,7 @@ CREATE TABLE `test` (
 
 可以使用unsigned zerofill来填充0；
 
-![image-20210102214533602](MySQL命令.assets/image-20210102214533602.png)
+![image-20210102214533602](https://raw.githubusercontent.com/KevinAndrewl/typora-plugins-win-img/main/typora202101/06/155523-4188.png)
 
 ### 引擎的类型
 

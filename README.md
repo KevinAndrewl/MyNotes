@@ -24,7 +24,11 @@ This is a repository for my study notes
 ### springboot
 ### springcloud
 ### MySQL
+
+[MySQL笔记之基本命令](https://github.com/KevinAndrewl/MyNotes/blob/main/Linux/MySQL%E5%91%BD%E4%BB%A4.md)
+
 ### Linux
+
 ### C++
 ### Python
 ### C#
