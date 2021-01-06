@@ -781,7 +781,7 @@ ps -xx：
 
 * -a：显示当前终端运行的所有的进程信息，不是系统中的所有进程
 
-![image-20201225100855895](Linux.assets/image-20201225100855895.png)
+![image-20201225100855895](https://raw.githubusercontent.com/KevinAndrewl/typora-plugins-win-img/main/typora202101/06/230543-979359.png)
 
 * -u：以用户的信息显示进程
 * -x：显示后台运行进程的参数
