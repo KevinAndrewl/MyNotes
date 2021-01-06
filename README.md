@@ -28,7 +28,7 @@ This is a repository for my study notes
 [MySQL笔记之基本命令](https://github.com/KevinAndrewl/MyNotes/blob/main/Linux/MySQL%E5%91%BD%E4%BB%A4.md)
 
 ### Linux
-
+[Linux笔记之基本命令](https://github.com/KevinAndrewl/MyNotes/blob/main/Linux/Linux.md)
 ### C++
 ### Python
 ### C#
